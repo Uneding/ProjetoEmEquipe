@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\Tazercraft\ProjetoEmEquipe\Pedra,Papel e Tesoura - Mateus Lucas\pedrapapeltesoura\bin\Debug\net8.0\pedrapapeltesoura.exe
+C:\Users\Alunos\Desktop\Tazercraft\ProjetoEmEquipe\Pedra,Papel e Tesoura - Mateus Lucas\pedrapapeltesoura\bin\Debug\net8.0\pedrapapeltesoura.deps.json
+C:\Users\Alunos\Desktop\Tazercraft\ProjetoEmEquipe\Pedra,Papel e Tesoura - Mateus Lucas\pedrapapeltesoura\bin\Debug\net8.0\pedrapapeltesoura.runtimeconfig.json
+C:\Users\Alunos\Desktop\Tazercraft\ProjetoEmEquipe\Pedra,Papel e Tesoura - Mateus Lucas\pedrapapeltesoura\bin\Debug\net8.0\pedrapapeltesoura.dll
+C:\Users\Alunos\Desktop\Tazercraft\ProjetoEmEquipe\Pedra,Papel e Tesoura - Mateus Lucas\pedrapapeltesoura\bin\Debug\net8.0\pedrapapeltesoura.pdb
+C:\Users\Alunos\Desktop\Tazercraft\ProjetoEmEquipe\Pedra,Papel e Tesoura - Mateus Lucas\pedrapapeltesoura\obj\Debug\net8.0\pedrapapeltesoura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\Tazercraft\ProjetoEmEquipe\Pedra,Papel e Tesoura - Mateus Lucas\pedrapapeltesoura\obj\Debug\net8.0\pedrapapeltesoura.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\Tazercraft\ProjetoEmEquipe\Pedra,Papel e Tesoura - Mateus Lucas\pedrapapeltesoura\obj\Debug\net8.0\pedrapapeltesoura.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\Tazercraft\ProjetoEmEquipe\Pedra,Papel e Tesoura - Mateus Lucas\pedrapapeltesoura\obj\Debug\net8.0\pedrapapeltesoura.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Tazercraft\ProjetoEmEquipe\Pedra,Papel e Tesoura - Mateus Lucas\pedrapapeltesoura\obj\Debug\net8.0\pedrapapeltesoura.sourcelink.json
+C:\Users\Alunos\Desktop\Tazercraft\ProjetoEmEquipe\Pedra,Papel e Tesoura - Mateus Lucas\pedrapapeltesoura\obj\Debug\net8.0\pedrapapeltesoura.dll
+C:\Users\Alunos\Desktop\Tazercraft\ProjetoEmEquipe\Pedra,Papel e Tesoura - Mateus Lucas\pedrapapeltesoura\obj\Debug\net8.0\refint\pedrapapeltesoura.dll
+C:\Users\Alunos\Desktop\Tazercraft\ProjetoEmEquipe\Pedra,Papel e Tesoura - Mateus Lucas\pedrapapeltesoura\obj\Debug\net8.0\pedrapapeltesoura.pdb
+C:\Users\Alunos\Desktop\Tazercraft\ProjetoEmEquipe\Pedra,Papel e Tesoura - Mateus Lucas\pedrapapeltesoura\obj\Debug\net8.0\pedrapapeltesoura.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\Tazercraft\ProjetoEmEquipe\Pedra,Papel e Tesoura - Mateus Lucas\pedrapapeltesoura\obj\Debug\net8.0\ref\pedrapapeltesoura.dll
