@@ -1,5 +1,5 @@
 # ProjetoEmEquipe
-Atividades em grupo no Uneding
+Atividades em grupo no GitHub
 
   ## Calculadora
 1. Fazer um requerimento dos números equanto verifica se os dados inseridos são aceitáveis.
